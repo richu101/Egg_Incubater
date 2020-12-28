@@ -738,6 +738,7 @@ if (meniu == 5) {
    delay(250);
   }
 
+
   if (taim1 < .5) taim1 = 24;
   if (taim1 > 24) taim1 = .5;
 
